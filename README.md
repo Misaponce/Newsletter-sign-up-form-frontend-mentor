@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [-](https://github.com/Misaponce/Newsletter-sign-up-form-frontend-mentor)
-- Live Site URL: [-](https://misaponce.github.io/Newsletter-sign-up-form-frontend-mentor/)
+- Solution URL: [-Github Repo](https://github.com/Misaponce/Newsletter-sign-up-form-frontend-mentor)
+- Live Site URL: [-Live Site](https://misaponce.github.io/Newsletter-sign-up-form-frontend-mentor/)
 
 ## My process
 
@@ -47,8 +47,6 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - [Bootstrap](https://getbootstrap.com/)
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
